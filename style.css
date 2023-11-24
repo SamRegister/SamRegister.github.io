@@ -64,7 +64,6 @@ nav#navbar li a:hover {
 .about-image img {
     max-width: 100%;
     height: auto;
-    border-radius: 50%; /* Circular image */
 }
 
 .contact-info {
